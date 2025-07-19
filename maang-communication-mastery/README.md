@@ -24,14 +24,14 @@
 | 3 | Code Narration | Narrate your thought process out loud as you code. | Record yourself solving 2 problems, review for clarity |
 | 4 | Edge Case Handling (Google) | Explicitly discuss edge cases before coding. | List edge cases for 3 problems before coding |
 | 5 | Trade-off Analysis (Meta) | Compare 2+ approaches for each problem. | Explain pros/cons for 2 solutions per problem |
-| 6 | Mock Interview #1 | Simulate a full interview with a peer or tool. | Complete 1 mock, get feedback on communication |
+| 6 | Mock Interview #1 | Simulate a full interview with a peer or [Exponent Practice](https://www.tryexponent.com/practice). | Complete 1 mock, get feedback on communication |
 | 7 | Week 1 Review | Self-assess using a rubric. Identify top 2 areas to improve. | Document strengths & next steps |
 | 8 | Leadership Principles (Amazon) | Integrate business/impact thinking into answers. | Relate code choices to user/business impact |
 | 9 | Simplicity & Clarity (Apple) | Practice concise, simple explanations. | Explain 2 problems to a non-technical friend |
 | 10 | Innovation & Adaptability (Netflix) | Discuss alternative solutions and adaptability. | Suggest 1+ alternative for each problem |
 | 11 | Data Structure Mastery | Communicate why you chose each DS. | Justify DS choice in 3 problems |
 | 12 | Algorithm Storytelling | Tell a story of how you approach a problem. | Use a story arc (setup, challenge, solution) for 2 problems |
-| 13 | Mock Interview #2 | Full mock with focus on improved communication. | Complete 1 mock, compare to Day 6 |
+| 13 | Mock Interview #2 | Full mock with focus on improved communication using [Exponent](https://www.tryexponent.com/practice). | Complete 1 mock, compare to Day 6 |
 | 14 | Learn from Masters | Watch/imitate top interviewers (YouTube, peers). | Note 3 techniques to adopt |
 | 15 | Final Assessment | Simulate a real MAANG interview, record & review. | Score yourself on clarity, structure, confidence |
 
@@ -147,7 +147,7 @@ Technical Accuracy (30%) + Clear Communication (70%) = Job Offer
 
 ### 🛣️ **Learning Path:**
 1. **📖 Read the Daily Guide**: Comprehensive explanation with examples
-2. **🎯 Complete Practice Exercises**: Build muscle memory
+2. **🎯 Complete Practice Exercises**: Build muscle memory with [Exponent Practice](https://www.tryexponent.com/practice)
 3. **📊 Self-Assessment**: Track progress with rubrics
 4. **💬 Community Practice**: Join study groups and discussions
 5. **🚀 Apply Next Day**: Build momentum with daily progression
@@ -170,7 +170,10 @@ Pick your target company and emphasize those specific days:
 ### 📊 **Step 3: Track Progress**
 Use the self-assessment rubrics in each day to measure improvement.
 
-### 🤝 **Step 4: Join Community**
+### 🤝 **Step 4: Practice with Tools**
+Use [Exponent Practice Platform](https://www.tryexponent.com/practice) for mock interviews and structured practice sessions.
+
+### 📱 **Step 5: Join Community**
 Connect with fellow learners for practice and accountability.
 
 ---
@@ -277,6 +280,27 @@ Master the fundamentals of professional technical communication that work across
 - **🛒 Amazon Leadership**: [Day 8](./day-08/) (Available Now!)
 - **🍎 Apple Elegance**: [Day 9](./day-09/) (Coming Soon)
 - **🎬 Netflix Innovation**: [Day 10](./day-10/) (Coming Soon)
+
+---
+
+## 🛠️ **Practice Resources**
+
+### 🎯 **Recommended Practice Platforms**
+- **[Exponent Practice](https://www.tryexponent.com/practice)**: Professional mock interviews with real-time feedback
+- **LeetCode**: DSA problems for daily practice exercises
+- **Pramp**: Peer-to-peer mock interviews
+- **InterviewBit**: Structured interview preparation
+
+### 📊 **Self-Assessment Tools**
+- Daily rubrics for communication clarity
+- Progress tracking templates
+- Company-specific evaluation criteria
+- Mock interview feedback forms
+
+### 💬 **Community Resources**
+- Study groups and accountability partners
+- Discord community for real-time practice
+- Practice session recordings for review
 
 ---
 
