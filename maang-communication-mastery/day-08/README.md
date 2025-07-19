@@ -10,15 +10,24 @@ focus: "Leadership Principles & Customer Impact"
 skills: ["Customer Obsession", "Ownership", "Dive Deep", "Leadership Communication"]
 ---
 
-# 🛒 Day 8: Amazon's Leadership-Driven Communication
-**🏢 Company Focus**: Amazon | **⏱️ Time**: 60 minutes | **🎯 Goal**: Master leadership-driven technical communication
+# 🛒 Day 8: Amazon's Leadership Communication
 
-<div style="background: linear-gradient(135deg, #ff9900 0%, #232f3e 100%); padding: 20px; border-radius: 15px; color: white; margin: 20px 0;">
+## 🎯 Communication Focus: Leadership Principles & Business Impact (Advanced)
 
-## 🎯 **Today's Mission**
-Transform your technical communication from pure engineering thinking to Amazon's leadership-driven approach that combines technical excellence with customer obsession and ownership mindset.
+- **Goal:** Relate your technical choices to business impact and leadership principles.
+- **Why:** Amazon values customer obsession, ownership, and business context in every answer.
 
-</div>
+### 🏋️‍♂️ Training Steps
+1. For each coding problem, ask: "How does my solution impact the user or business?"
+2. Practice explaining your code choices in terms of customer value, reliability, and scalability.
+3. Use Amazon's leadership principles (e.g., Customer Obsession, Ownership) in your explanations.
+4. Simulate a mock interview where you justify your approach from a business perspective.
+
+### ✅ Self-Assessment Checklist
+- [ ] Did I mention business or user impact in my answer?
+- [ ] Did I use at least one Amazon leadership principle?
+- [ ] Did I justify my technical choices clearly?
+- [ ] Did I connect code decisions to real-world outcomes?
 
 ---
 

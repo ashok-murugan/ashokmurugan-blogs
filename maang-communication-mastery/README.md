@@ -11,7 +11,81 @@
 
 </div>
 
+---
+
+## 🗺️ 15-Day Communication Fix Roadmap for MAANG DSA Coding Interviews
+
+**Transform your technical communication for MAANG DSA interviews in just 15 days. Each day has a focused goal, actionable steps, and a clear success metric.**
+
+| Day | Focus & Goal | Action Steps | Success Metric |
+|-----|--------------|-------------|---------------|
+| 1 | Problem Restatement (Google) | Practice restating problems in your own words. Use the STAR-C framework. | Restate 3 LeetCode problems clearly in <30s each |
+| 2 | Clarifying Questions (Meta) | Ask 2-3 clarifying questions for each problem. | Identify edge cases & constraints for 3 problems |
+| 3 | Code Narration | Narrate your thought process out loud as you code. | Record yourself solving 2 problems, review for clarity |
+| 4 | Edge Case Handling (Google) | Explicitly discuss edge cases before coding. | List edge cases for 3 problems before coding |
+| 5 | Trade-off Analysis (Meta) | Compare 2+ approaches for each problem. | Explain pros/cons for 2 solutions per problem |
+| 6 | Mock Interview #1 | Simulate a full interview with a peer or tool. | Complete 1 mock, get feedback on communication |
+| 7 | Week 1 Review | Self-assess using a rubric. Identify top 2 areas to improve. | Document strengths & next steps |
+| 8 | Leadership Principles (Amazon) | Integrate business/impact thinking into answers. | Relate code choices to user/business impact |
+| 9 | Simplicity & Clarity (Apple) | Practice concise, simple explanations. | Explain 2 problems to a non-technical friend |
+| 10 | Innovation & Adaptability (Netflix) | Discuss alternative solutions and adaptability. | Suggest 1+ alternative for each problem |
+| 11 | Data Structure Mastery | Communicate why you chose each DS. | Justify DS choice in 3 problems |
+| 12 | Algorithm Storytelling | Tell a story of how you approach a problem. | Use a story arc (setup, challenge, solution) for 2 problems |
+| 13 | Mock Interview #2 | Full mock with focus on improved communication. | Complete 1 mock, compare to Day 6 |
+| 14 | Learn from Masters | Watch/imitate top interviewers (YouTube, peers). | Note 3 techniques to adopt |
+| 15 | Final Assessment | Simulate a real MAANG interview, record & review. | Score yourself on clarity, structure, confidence |
+
+**How to Use This Roadmap:**
+- Dedicate 60 minutes daily to the focus area.
+- Use the action steps as your daily checklist.
+- Track your progress with the success metric.
+- Join the community for accountability and feedback.
+
+---
+
 > 🎯 **Mission**: Transform your technical communication from scattered thoughts to structured brilliance in just 15 days. This battle-tested framework has helped 1000+ engineers land offers at Google, Meta, Amazon, Apple, and Netflix through improved interview communication skills.
+
+---
+
+## 🏆 MAANG Communication Training Path: Beginner to Advanced
+
+**This path will take you from basic coding communication to advanced, MAANG-level interview mastery.**
+
+### 🟢 Beginner: Build Your Foundation
+- **Goal:** Speak your thought process clearly and confidently.
+- **Training:**
+  - Practice restating problems in your own words.
+  - Narrate every step as you code, even if alone.
+  - Use simple language—avoid jargon.
+  - Focus on clarity over speed.
+- **Daily Exercise:** Pick 1 LeetCode problem, explain your approach out loud before coding, and summarize your solution after.
+
+### 🔵 Intermediate: Structure & Depth
+- **Goal:** Communicate with structure and handle edge cases.
+- **Training:**
+  - Use frameworks (STAR, STAR-C) for every answer.
+  - Always state assumptions and ask clarifying questions.
+  - Discuss edge cases before you start coding.
+  - Compare at least two approaches for each problem.
+- **Daily Exercise:** For each problem, write down your clarifying questions, list edge cases, and explain two possible solutions.
+
+### 🟣 Advanced: MAANG-Level Mastery
+- **Goal:** Demonstrate leadership, business impact, and adaptability.
+- **Training:**
+  - Relate your code/design choices to user/business impact (Amazon style).
+  - Practice concise, simple explanations (Apple style).
+  - Discuss trade-offs and alternatives (Meta/Netflix style).
+  - Simulate full interviews with peers or record yourself.
+  - Use rubrics to self-assess: clarity, structure, confidence, business context.
+- **Daily Exercise:** Do a mock interview, focusing on integrating leadership principles, business impact, and adaptability in your answers.
+
+---
+
+**How to Use This Path:**
+- Start at your current level and master each stage before moving up.
+- Use the daily exercises as a checklist.
+- Join the community for feedback and accountability.
+- Review your progress weekly and adjust your focus as needed.
 
 ---
 
@@ -158,7 +232,7 @@ Connect with fellow learners for practice and accountability.
 
 ---
 
-## 🎯 **What Makes This Different**
+## 🎯 **What Makes This Different
 
 ### 🏢 **Company-Specific Strategies**
 - **Google**: Systematic frameworks, STAR method, structured thinking

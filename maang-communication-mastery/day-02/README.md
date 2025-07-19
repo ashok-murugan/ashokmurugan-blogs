@@ -11,9 +11,25 @@ skills: ["Optimization Thinking", "Complexity Analysis", "Trade-off Communicatio
 ---
 
 # 🥈 Day 2: Meta's Optimization Mindset
-**🏢 Company Focus**: Meta | **⏱️ Time**: 50 minutes | **🎯 Goal**: Master optimization communication
 
-<div style="background: linear-gradient(135deg, #1877f2 0%, #42a5f5 100%); padding: 20px; border-radius: 15px; color: white; margin: 20px 0;">
+## 🎯 Communication Focus: Clarifying Questions (Beginner/Intermediate)
+
+- **Goal:** Ask 2-3 clarifying questions before starting to code.
+- **Why:** Shows you think deeply, avoid assumptions, and handle edge cases.
+
+### 🏋️‍♂️ Training Steps
+1. After restating the problem, pause and brainstorm possible ambiguities.
+2. Ask questions like: "Can input be negative? Are duplicates allowed? What if input is empty?"
+3. Write down your questions for 3 LeetCode problems.
+4. Practice explaining why each question matters.
+
+### ✅ Self-Assessment Checklist
+- [ ] Did I ask at least 2 clarifying questions?
+- [ ] Did my questions address edge cases or constraints?
+- [ ] Did I explain why each question is important?
+- [ ] Did I avoid jumping into code too soon?
+
+---
 
 ## 🎯 **Today's Mission**
 Transform your approach from "making it work" to "making it optimal" with Meta's systematic optimization mindset that separates senior engineers from junior developers.
@@ -412,4 +428,4 @@ Post your Day 2 achievement:
 
 **🎉 Congratulations on mastering Meta's optimization communication! You now think and speak like a senior engineer.**
 
-**🚀 [Continue to Day 3: Code Narration Masterclass](../day-03/)**
+**🚀 [Continue to Day 3: Code Narration Masterclass](../day-03/)

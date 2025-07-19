@@ -11,9 +11,26 @@ skills: ["Problem Restatement", "Clarifying Questions", "STAR Method", "Confiden
 ---
 
 # 🏅 Day 1: Google Opening Mastery
-**🏢 Company Focus**: Google | **⏱️ Time**: 45 minutes | **🎯 Goal**: Master first impressions
 
-<div style="background: linear-gradient(135deg, #4285f4 0%, #34a853 100%); padding: 20px; border-radius: 15px; color: white; margin: 20px 0;">
+## 🎯 Communication Focus: Problem Restatement (Beginner)
+
+- **Goal:** Clearly restate the problem in your own words before coding.
+- **Why:** This shows understanding, impresses interviewers, and prevents mistakes.
+
+### 🏋️‍♂️ Training Steps
+1. Read the problem and pause.
+2. Restate the problem out loud, using simple language.
+3. Use the STAR-C framework (Situation, Task, Action, Result, Clarification) to structure your restatement.
+4. Ask yourself: "What is the input? What is the output? What are the constraints?"
+5. Practice with 3 LeetCode easy problems.
+
+### ✅ Self-Assessment Checklist
+- [ ] Did I restate the problem in <30 seconds?
+- [ ] Did I avoid jargon and use clear language?
+- [ ] Did I mention input, output, and constraints?
+- [ ] Did I use a structured approach (STAR-C)?
+
+---
 
 ## 🎯 **Today's Mission**
 Transform your interview opening from nervous stumbling to confident, Google-level professional communication that immediately impresses your interviewer.
@@ -360,4 +377,4 @@ Post your Day 1 achievement:
 
 **🎉 Congratulations on completing Day 1! You've taken the first crucial step toward MAANG-level communication mastery.**
 
-**🚀 [Continue to Day 2: Meta's Optimization Mindset](../day-02/)**
+**🚀 [Continue to Day 2: Meta's Optimization Mindset](../day-02/)
