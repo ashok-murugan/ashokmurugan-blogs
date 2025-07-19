@@ -1,4 +1,4 @@
-# 🚀 Master DSA Communication: 15-Day Blueprint for MAANG Interviews
+# 🚀 Master DSA Communication: 15-Day Blueprint for MAANG Interviews | Technical Interview Communication Guide
 
 <div align="center">
 
@@ -7,9 +7,11 @@
 ![Duration](https://img.shields.io/badge/Duration-15%20Days-orange)
 ![Success Rate](https://img.shields.io/badge/Success%20Rate-87%25-brightgreen)
 
+**Keywords**: MAANG Interview Communication, Technical Interview Tips, Google Interview Preparation, Meta Interview Guide, Amazon Interview Communication, Apple Interview Strategy, Netflix Interview Prep, Coding Interview Communication, DSA Interview Skills
+
 </div>
 
-> 🎯 **Mission**: Transform your technical communication from scattered thoughts to structured brilliance in just 15 days. This battle-tested framework has helped 1000+ engineers land offers at Google, Meta, Amazon, Apple, and Netflix.
+> 🎯 **Mission**: Transform your technical communication from scattered thoughts to structured brilliance in just 15 days. This battle-tested framework has helped 1000+ engineers land offers at Google, Meta, Amazon, Apple, and Netflix through improved interview communication skills.
 
 ---
 

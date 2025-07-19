@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Ashok Murugan's Tech Blog Collection",
+  "description": "A comprehensive collection of technical blogs, career insights, and practical resources for software engineers to excel in their careers and navigate the tech industry.",
+  "url": "https://github.com/ashok-murugan/ashokmurugan-blogs",
+  "author": {
+    "@type": "Person",
+    "name": "Ashok Murugan",
+    "url": "https://ashokmurugan.com",
+    "sameAs": [
+      "https://linkedin.com/in/ashok-murugan",
+      "https://x.com/Ashok1Murugan",
+      "https://github.com/ashok-murugan"
+    ],
+    "jobTitle": "Staff Software Engineer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Walmart"
+    }
+  },
+  "keywords": [
+    "software engineering",
+    "tech blogs",
+    "career development", 
+    "interview preparation",
+    "system design",
+    "programming tutorials",
+    "coding interview",
+    "MAANG interviews",
+    "technical communication",
+    "developer career",
+    "backend engineering",
+    "full-stack development",
+    "algorithms",
+    "data structures",
+    "technical writing"
+  ],
+  "genre": [
+    "Technology",
+    "Education", 
+    "Career Development",
+    "Programming"
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Software Engineers, Developers, Tech Professionals"
+  },
+  "educationalLevel": "Beginner to Advanced",
+  "inLanguage": "en-US",
+  "license": "https://opensource.org/licenses/MIT",
+  "dateCreated": "2024",
+  "dateModified": "2025-07-19",
+  "blogPost": [
+    {
+      "@type": "BlogPosting",
+      "name": "MAANG Interview Communication Mastery",
+      "description": "15-day blueprint for mastering technical communication in MAANG interviews",
+      "url": "https://github.com/ashok-murugan/ashokmurugan-blogs/tree/main/maang-communication-mastery",
+      "keywords": "MAANG interviews, technical communication, Google interviews, Meta interviews, Amazon interviews, Apple interviews, Netflix interviews"
+    }
+  ]
+}

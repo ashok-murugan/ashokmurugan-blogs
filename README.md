@@ -1,4 +1,6 @@
-# 📚 Ashok Murugan's Tech Blog Collection
+# 📚 Ashok Muruga## 📂 **Available Blog Series**
+
+*Explore various topics covering software engineering, career development, and technical growth. Perfect for developers looking to advance their careers, master technical interviews, and build better software systems.* Tech Blog Collection | Software Engineering Career Growth
 
 <div align="center">
 
@@ -7,9 +9,11 @@
 ![Interview Prep](https://img.shields.io/badge/Interview-Preparation-orange)
 ![Software Engineering](https://img.shields.io/badge/Software-Engineering-purple)
 
+**Keywords**: Software Engineering Blogs, Tech Career Growth, Programming Tutorials, Interview Preparation, System Design, Code Architecture, Developer Career Advice
+
 </div>
 
-> 🎯 **Welcome**: A collection of technical blogs, career insights, and practical resources for software engineers to excel in their careers and navigate the tech industry.
+> 🎯 **Welcome**: A collection of technical blogs, career insights, and practical resources for software engineers to excel in their careers and navigate the tech industry. Learn programming best practices, master technical interviews, and accelerate your software development career.
 
 ---
 
@@ -82,3 +86,13 @@ Join the community for discussions, learning, and career support.
 Want to know more about me? Check out my **[main GitHub profile](https://github.com/ashok-murugan/ashok-murugan)** for my background, experience, and current focus areas.
 
 **Ready to start your learning journey?** Explore the blog content above and join the community of engineers growing their careers! 🚀
+
+---
+
+## 📄 **Additional Resources**
+
+- **[📋 Full Sitemap](./SITEMAP.md)** - Complete navigation of all blog content
+- **[🔍 SEO Keywords](./KEYWORDS.md)** - Searchable topics and technologies covered
+- **[📊 Structured Data](./schema.json)** - Machine-readable blog metadata
+
+*Last Updated: July 19, 2025 | Repository: https://github.com/ashok-murugan/ashokmurugan-blogs*

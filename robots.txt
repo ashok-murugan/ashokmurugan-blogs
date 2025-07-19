@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Main content
+Allow: /README.md
+Allow: /SITEMAP.md
+Allow: /maang-communication-mastery/
+
+# Blog series directories
+Allow: /maang-communication-mastery/day-*/
+Allow: /maang-communication-mastery/README.md
+
+# SEO and metadata files
+Allow: /schema.json
+Allow: /KEYWORDS.md
+
+# GitHub specific
+Allow: /.github/
+
+# Sitemap location
+Sitemap: https://github.com/ashok-murugan/ashokmurugan-blogs/blob/main/SITEMAP.md
