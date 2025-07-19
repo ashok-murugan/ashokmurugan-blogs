@@ -181,19 +181,6 @@ Connect with fellow learners for practice and accountability.
 
 ---
 
-## 💬 **Community & Support**
-
-### 🤝 **Join the Learning Community**
-- **💬 Discord Server**: [#maang-communication](https://discord.gg/maangprep)
-- **📱 Study Groups**: Find practice partners and accountability buddies
-- **🌐 Website Contact**: Get help through ashokmurugan.com
-- **🎯 Progress Sharing**: Celebrate milestones with fellow learners
-
-### 📧 **Get Help**
-- **General Questions**: Connect via LinkedIn or website
-- **Technical Issues**: Report via GitHub issues or website
-
----
 
 ## 📱 **Share Your Journey**
 

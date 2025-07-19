@@ -67,20 +67,6 @@ Join the community for discussions, learning, and career support.
 
 ---
 
-## 💬 **Community & Support**
-
-### 🤝 **Join the Learning Community**
-- **💬 Discord Server**: [#ashok-murugan-tech-blogs](https://discord.gg/techblogs)
-- **📱 Study Groups**: Find practice partners and learning buddies
-- **🌐 Website Contact**: Get help through ashokmurugan.com
-- **🎯 Progress Sharing**: Celebrate milestones with fellow learners
-
-### 📧 **Get Help**
-- **General Questions**: Connect via LinkedIn or website
-- **Technical Issues**: Report via GitHub issues or website
-
----
-
 ## 🌐 **Connect & Learn More**
 
 Want to know more about me? Check out my **[main GitHub profile](https://github.com/ashok-murugan/ashok-murugan)** for my background, experience, and current focus areas.
